@@ -1,0 +1,40 @@
+.bmi-container {
+  max-width: 500px;
+  margin: 60px auto;
+  padding: 40px;
+  border: 3px solid #2e0b0b;
+  border-radius: 8px;
+  box-shadow: 4 7 10px rgba(196, 179, 212, 0.1);
+}
+
+.input-group {
+  margin-bottom: 15px;
+}
+
+label {
+  display: blue;
+  margin-bottom: 10px;
+}
+
+input {
+  width: 100%;
+  padding: 8px;
+  box-sizing: border-box;
+}
+
+button {
+  background-color: #4caf50;
+  color: #ffffff;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.result {
+  margin-top: 20px;
+}
+
+h3 {
+  color: #3ad475;
+}
